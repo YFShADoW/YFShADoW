@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Dev & Data Science
 - 🌱 I’m currently learning MERN
 - 📫 Can reach me with my Linkedin profile
+- 🏫 I'm currently studying Computer Science (Data Analytics)
 
 <!---
 YFShADoW/YFShADoW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
